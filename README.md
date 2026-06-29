@@ -4,7 +4,7 @@ A decentralized news verification application (DApp) that combats misinformation
 
 > For the full theoretical background, cryptographic design, and formal evaluation see the accompanying paper **inMediaVeritas (2026)** by Jakub Ivácek, Patrik Baran, Tomáš Tisovský, Vojtech Babinský, Tomáš Miština, Matúš Hrkeľ, Richard Gazdík, Ivan Homoliak — STU FIIT, Slovakia Bratislava.
 >
-> Live demo & landing page: https://jakubivacek.github.io/inMediaVeritas/
+> Live demo & landing page: https://inmediaveritas.vercel.app/
 
 ---
 
